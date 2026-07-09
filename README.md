@@ -40,6 +40,14 @@ Baixe a versão compilada disponível na seção **Releases**, extraia o arquivo
 
 > **Observação:** A versão disponibilizada é compatível apenas com **Windows**.
 
+## Controles
+
+| Tecla | Ação |
+|-------|------|
+| **A** | Mover para a esquerda |
+| **D** | Mover para a direita |
+| **Espaço** | Pular |
+
 ### Opção 2 – Abrir o projeto
 
 1. Clone este repositório.
