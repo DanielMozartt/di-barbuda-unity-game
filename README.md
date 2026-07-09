@@ -2,6 +2,8 @@
 
 Projeto de jogo digital desenvolvido utilizando **Unity** e **C#** como parte do curso **Técnico em Programação de Jogos Digitais**.
 
+<img width="960" height="540" alt="primeira foto do menu" src="https://github.com/user-attachments/assets/4a515df6-deb8-4028-8b0d-80036b6f6eb1" />
+
 ## Sobre o projeto
 
 O objetivo deste projeto foi aplicar conceitos de programação orientada a objetos, desenvolvimento de jogos e criação de aplicações interativas utilizando a engine Unity.
